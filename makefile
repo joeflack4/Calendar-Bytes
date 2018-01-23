@@ -1,4 +1,4 @@
 .PHONY: test
 
 test:
-	python scan.py --image images/doc_01.jpg
+	python scan.py --image images/page.jpg
